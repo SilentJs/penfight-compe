@@ -1,14 +1,14 @@
 
 let sortDirection = false;
 let personData = [
-    {name:"Mohit", rr:60},
-    {name:"Nikhilesh", rr:30},
-    {name:"Shreyas", rr:80},
-    {name:"Pathikrit", rr:80},
+    {name:"Mohit", rr:100},
+    {name:"Nikhilesh", rr:4},
+    {name:"Shreyas", rr:140},
+    {name:"Pathikrit", rr:130},
     {name:"Tanishk", rr:30},
-    {name:"Bhuvnesh", rr:30},
-    {name:"Santosh", rr:40},
-    {name:"Jacob", rr:70},
+    {name:"Bhuvnesh", rr:80},
+    {name:"Santosh", rr:90},
+    {name:"Jacob", rr:140},
 ];
 
 window.onload=()=>{  
